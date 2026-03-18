@@ -11,13 +11,9 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/kauanmangueira2-ux">
-    <img src="https://img.shields.io/badge/GitHub-kauanmangueira2-ux-181717?style=for-the-badge&logo=github" />
-  </a>
-   <a href="https://www.linkedin.com/in/kauan-almeida-13183920b/">
-    <img src="https://img.shields.io/badge/GitHub-kauanmangueira2-ux-181717?style=for-the-badge&logo=github" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kauan-almeida-13183920b/
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kauanmangueira2-ux)
 
 
 
