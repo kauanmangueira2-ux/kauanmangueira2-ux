@@ -1,5 +1,5 @@
 # Hi 👋, Kauan Almeida
-🚀 **Junior Full Stack Developer
+🚀 Junior Full Stack Developer
 Java | SQL | HTML | CSS | Bootstrap | JavaScript | PHP | Python | Scrum
 
 🇧🇷 Brazil
