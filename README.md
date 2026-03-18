@@ -63,7 +63,7 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ## 📊 GitHub Stats
 
-<p >
+<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanmangueira2-ux&show_icons=true&theme=tokyonight&count_private=true" />
   <img align="right" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmangueira2-ux&layout=compact&theme=tokyonight" />
 </p>
