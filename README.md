@@ -1,6 +1,7 @@
 # Hi 👋, Kauan Almeida
 🚀 **Junior Full Stack Developer
 Java | SQL | HTML | CSS | Bootstrap | JavaScript | PHP | Python | Scrum
+
 🇧🇷 Brazil
 
 I develop web applications and programming projects as I grow as a developer.  
@@ -38,12 +39,8 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
 ### Backend
 
