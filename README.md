@@ -2,7 +2,7 @@
 🚀 Junior Full Stack Developer
 Java | SQL | HTML | CSS | Bootstrap | JavaScript | PHP | Python | Scrum
 
-🇧🇷 Brazil
+🇧🇷 Brazil 🇧🇷
 
 I develop web applications and programming projects as I grow as a developer.  
 I’m focused on improving my skills in **web development, clean code, and software fundamentals**.
