@@ -66,7 +66,7 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ---
 
-## 🚀 Philosophy
+## 🚀 Philosophy:
 
 > "Any fool can write code that a computer can understand.  
 > Good programmers write code that humans can understand."
