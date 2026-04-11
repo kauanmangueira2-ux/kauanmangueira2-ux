@@ -58,15 +58,6 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ---
 
-## 📊 GitHub Stats
-
-<p ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kauanmangueira2-ux_icons=true&theme=transparent)
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanmangueira2-ux&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Philosophy:
 
 > "Any fool can write code that a computer can understand.  
