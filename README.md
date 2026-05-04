@@ -4,8 +4,8 @@
 
 
 
-Atualmente estou desenvolvendo aplicações web e projetos de programação enquanto evoluo como desenvolvedor.
-Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e fundamentos de software.
+## Atualmente estou desenvolvendo aplicações web e projetos de programação enquanto evoluo como desenvolvedor.
+Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e fundamentos de software. ##
 
 ---
 
@@ -58,7 +58,7 @@ Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e funda
 
 ---
 
-## 🚀 Minha filosofia:
+## 🚀 Minha filosofia: ##
 
 "Mais importante do que fazer o código funcionar é garantir que ele possa ser entendido, mantido e evoluído com facilidade."
 ---
