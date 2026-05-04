@@ -20,13 +20,13 @@ Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e funda
 
 ## 🧠 O que eu faço no dia a dia:
 
-💻 Desenvolvo projetos web
-🌐 Pratico front-end e back-end
-🧩 Estudo código limpo e boas práticas
-🗄️ Trabalho com banco de dados e SQL
-🚀 Crio pequenas aplicações e experimentos
-📚 Estou sempre aprendendo mais sobre desenvolvimento
-🔄 Trabalho com metodologia ágil (Scrum)
+💻 Desenvolvo projetos web  
+🌐 Pratico front-end e back-end  
+🧩 Estudo código limpo e boas práticas  
+🗄️ Trabalho com banco de dados e SQL  
+🚀 Crio pequenas aplicações e experimentos  
+📚 Estou sempre aprendendo mais sobre desenvolvimento  
+🔄 Trabalho com metodologia ágil (Scrum)  
 
 ---
 
