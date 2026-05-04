@@ -4,8 +4,8 @@
 
 
 
-## Atualmente estou desenvolvendo aplicações web e projetos de programação enquanto evoluo como desenvolvedor.
-Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e fundamentos de software. ##
+# Atualmente estou desenvolvendo aplicações web e projetos de programação enquanto evoluo como desenvolvedor.
+Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e fundamentos de software. #
 
 ---
 
