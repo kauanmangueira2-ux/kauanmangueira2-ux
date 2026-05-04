@@ -1,6 +1,6 @@
 # Hi 👋, Kauan Almeida
 🚀 Desenvolvedor Full Stack Júnior
-(Java, SQL, HTML, CSS, Bootstrap, JavaScript, PHP, Python, Scrum)
+(Java, SQL, HTML, CSS, Bootstrap, JavaScript, PHP, Python, Scrum)     
 
 
  Atualmente estou desenvolvendo aplicações web e projetos de programação enquanto evoluo como desenvolvedor.
