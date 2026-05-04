@@ -57,9 +57,10 @@ Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e funda
 
 ---
 
-## 🚀 Minha filosofia: ##
+## 🚀 Minha filosofia: 
 
 "Mais importante do que fazer o código funcionar é garantir que ele possa ser entendido, mantido e evoluído com facilidade."
+
 ---
 
 ⭐ Curtiu meu trabalho? Dá uma estrela nos repositórios 😄
