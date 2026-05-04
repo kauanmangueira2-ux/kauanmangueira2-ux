@@ -1,15 +1,15 @@
 # Hi 👋, Kauan Almeida
-🚀 Junior Full Stack Developer
-Java | SQL | HTML | CSS | Bootstrap | JavaScript | PHP | Python | Scrum
+🚀 Desenvolvedor Full Stack Júnior
+(Java, SQL, HTML, CSS, Bootstrap, JavaScript, PHP, Python, Scrum)
 
-🇧🇷 Brazil
+🇧🇷 Brasil
 
-I develop web applications and programming projects as I grow as a developer.  
-I’m focused on improving my skills in **web development, clean code, and software fundamentals**.
+Atualmente estou desenvolvendo aplicações web e projetos de programação enquanto evoluo como desenvolvedor.
+Meu foco é melhorar cada vez mais em desenvolvimento web, código limpo e fundamentos de software.**.
 
 ---
 
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-almeida-13183920b/)
 
@@ -19,19 +19,19 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço no dia a dia:
 
-- 💻 Web development projects
-- 🌐 Front-end and back-end practice
-- 🧩 Learning clean code and best practices
-- 🗄️ Database and SQL practice
-- 🚀 Building small applications and experiments
-- 📚 Continuous learning in software development
-- 🔄 Working with Agile methodology
+💻 Desenvolvo projetos web
+🌐 Pratico front-end e back-end
+🧩 Estudo código limpo e boas práticas
+🗄️ Trabalho com banco de dados e SQL
+🚀 Crio pequenas aplicações e experimentos
+📚 Estou sempre aprendendo mais sobre desenvolvimento
+🔄 Trabalho com metodologia ágil (Scrum)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tecnologias que uso:
 
 ### Frontend
 
@@ -48,7 +48,7 @@ I’m focused on improving my skills in **web development, clean code, and softw
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps & Tools
+### Ferramentas:
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
@@ -58,11 +58,10 @@ I’m focused on improving my skills in **web development, clean code, and softw
 
 ---
 
-## 🚀 Philosophy:
+## 🚀 Minha filosofia:
 
-> "Any fool can write code that a computer can understand.  
-> Good programmers write code that humans can understand."
+"Mais importante do que fazer o código funcionar é garantir que ele possa ser entendido, mantido e evoluído com facilidade."
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ Curtiu meu trabalho? Dá uma estrela nos repositórios 😄
+🤝 Sempre aberto a ideias, parcerias e projetos!
